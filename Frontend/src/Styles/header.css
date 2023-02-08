@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+
+.bttn {
+  display: flex;
+  color: #02b589;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.button {
+  display: flex;
+  width: 183px;
+  height: 44px;
+  color: #ffffff;
+  background-color: #02b589;
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  border: 0;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.Kantainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 20px;
+  align-items: center;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.nernerner {
+  display: flex;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  gap: 12px;
+}
+
+.jungo {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+}

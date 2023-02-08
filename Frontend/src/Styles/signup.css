@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+
+.bttn {
+  display: flex;
+  color: #02b589;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: transparent;
+  border: 0;
+}
+
+.buuttoon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.loogoo {
+  display: flex;
+  justify-content: center;
+  margin-top: 172px;
+}
+
+.ptag {
+  display: flex;
+  justify-content: center;
+  color: #02b589;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  margin-top: 63px;
+}
+
+input {
+  display: flex;
+  width: 381px;
+  height: 44px;
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-radius: 100px;
+  font-weight: 400;
+  font-size: 20px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+input::placeholder {
+  display: flex;
+  font-family: "Ubuntu", sans-serif;
+  color: #000000;
+  opacity: 0.2;
+}
+
+.box1 {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.box2 {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.box5 {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.box4 {
+  display: flex;
+  gap: 35px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pddng1 {
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 24px;
+}
+
+.pddng2 {
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 24px;
+}
+
+.pddng3 {
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 24px;
+}
+
+.burtguuleh {
+  display: flex;
+  width: 431px;
+  height: 48px;
+  color: #ffffff;
+  background-color: #02b589;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  border: 0;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.divdiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+.layoutt {
+  display: flex;
+  justify-content: center;
+  margin-top: 240px;
+}
